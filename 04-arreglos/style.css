@@ -1,0 +1,12 @@
+body {
+    background: rgb(186, 186, 241);
+}
+
+.disabled {
+    background: rgb(186, 186, 241);
+    color: rgb(186, 186, 241);
+}
+
+/* .container {
+    background: rgb(218, 190, 190);
+} */

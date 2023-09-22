@@ -1,0 +1,42 @@
+
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+/* las imagenes en .png son más lijeras */
+
+nav {
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 15px;
+    text-align: end;
+    text-align: center;
+}
+
+a {
+    border-left: 5px solid black;
+    margin-right: 15px;
+    padding-left: 15px;
+    text-align: start;
+    color: black;
+}
+
+img {
+    width: 600px;
+    height: 200px;
+}
+
+/* .icono {*/
+    /* background: url('https://images.hola.com/imagenes/cocina/recetas/20220208204252/pizza-pepperoni-mozzarella/1-48-890/pepperoni-pizza-abob-t.jpg'); *//* no-repeat center center/cover; */
+    /* background-repeat: repeat-x; /* repite la imagen en horizontal */
+/*     background-repeat: repeat-y; /* repite la imagen en vertical */
+/*     background-repeat: no-repeat; /* No repite la imagen */
+/*     background-size: cover; /* que trate de ocupar todo el dispositivo del usuario */ 
+/* } */
+
+/* .formulario h2 {
+    text-align: center;
+} */
+
+#nombre{
+    
+}
